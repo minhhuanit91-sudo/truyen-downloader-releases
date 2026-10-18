@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.5.3",
+  "latest_version": "1.5.4",
   "release_date": "2026-10-18",
   "min_os": "Windows 10",
-  "download_url": "https://github.com/minhhuanit91-sudo/truyen-downloader-releases/releases/download/v1.5.3/TruyenDownloader_Setup_v1.5.3.exe",
-  "sha256": "a7ff35a550084e7a13dce6b4ceef2a9ac36f98cbd6580c8ec304bac3be1b2b08",
-  "size_bytes": 38951584,
-  "release_notes": "Bản cập nhật v1.5.3: Khắc phục lỗi kiểm tra nguồn và sửa updater tự động cài đặt"
+  "download_url": "https://github.com/minhhuanit91-sudo/truyen-downloader-releases/releases/download/v1.5.4/TruyenDownloader_Setup_v1.5.4.exe",
+  "sha256": "7dcef3d0de7416a8c90e9ade73829ed6e5a96d456bda3387672a96fb7d2b0fbd",
+  "size_bytes": 38952481,
+  "release_notes": "Bản cập nhật v1.5.4: Sửa dứt điểm lỗi kiểm tra nguồn (AttributeError) và hoàn tất cơ chế Updater tự động đóng app, cài đặt và mở lại bản mới"
 }
