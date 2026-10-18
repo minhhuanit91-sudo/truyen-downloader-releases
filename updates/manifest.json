@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.5.1",
+  "latest_version": "1.5.2",
   "release_date": "2026-10-18",
   "min_os": "Windows 10",
-  "download_url": "https://github.com/minhhuanit91-sudo/truyen-downloader-releases/releases/download/v1.5.1/TruyenDownloader_Setup_v1.5.1.exe",
-  "sha256": "565714c2a361e707a5d14f8e1a5ecc9181b08de3c792b721488e0304e9eb2e01",
-  "size_bytes": 36379740,
-  "release_notes": "Bản cập nhật v1.5.1: Kiểm thử tính năng nâng cấp tự động A -> B"
+  "download_url": "https://github.com/minhhuanit91-sudo/truyen-downloader-releases/releases/download/v1.5.2/TruyenDownloader_Setup_v1.5.2.exe",
+  "sha256": "4769a1ec04260cf459823c22e86bc5803d3f04dc150db4a6b4ebcc4838ec1e2d",
+  "size_bytes": 38947757,
+  "release_notes": "Bản cập nhật v1.5.2: Sửa đóng gói Selenium, cơ chế tạm dừng chờ thao tác Chrome, kiểm tra nguồn truyện"
 }
