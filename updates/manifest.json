@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.5.5",
+  "latest_version": "1.5.6",
   "release_date": "2026-10-19",
   "min_os": "Windows 10",
-  "download_url": "https://github.com/minhhuanit91-sudo/truyen-downloader-releases/releases/download/v1.5.5/TruyenDownloader_Setup_v1.5.5.exe",
-  "sha256": "3206868fed9f80e3cf7724a38752cc17017505fa71b1f23ef607b5d006f1ef37",
-  "size_bytes": 38946067,
-  "release_notes": "Bản cập nhật v1.5.5: Tự động hóa hoàn toàn luồng Chrome, chống nhầm chương và tự nhận diện mở khóa"
+  "download_url": "https://github.com/minhhuanit91-sudo/truyen-downloader-releases/releases/download/v1.5.6/TruyenDownloader_Setup_v1.5.6.exe",
+  "sha256": "aa8d8a9893228214d6e1806191161cc9b1d2804fb1c75aa6e76e312d6957088f",
+  "size_bytes": 38966855,
+  "release_notes": "Bản cập nhật v1.5.6: Sửa triệt để gửi nhận Gemini Web, bảo toàn ngắt dòng đoạn văn, tự động dừng khi có lỗi và bổ sung tính năng nhận lại kết quả"
 }
