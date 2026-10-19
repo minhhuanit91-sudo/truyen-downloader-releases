@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.5.4",
-  "release_date": "2026-10-18",
+  "latest_version": "1.5.5",
+  "release_date": "2026-10-19",
   "min_os": "Windows 10",
-  "download_url": "https://github.com/minhhuanit91-sudo/truyen-downloader-releases/releases/download/v1.5.4/TruyenDownloader_Setup_v1.5.4.exe",
-  "sha256": "7dcef3d0de7416a8c90e9ade73829ed6e5a96d456bda3387672a96fb7d2b0fbd",
-  "size_bytes": 38952481,
-  "release_notes": "Bản cập nhật v1.5.4: Sửa dứt điểm lỗi kiểm tra nguồn (AttributeError) và hoàn tất cơ chế Updater tự động đóng app, cài đặt và mở lại bản mới"
+  "download_url": "https://github.com/minhhuanit91-sudo/truyen-downloader-releases/releases/download/v1.5.5/TruyenDownloader_Setup_v1.5.5.exe",
+  "sha256": "3206868fed9f80e3cf7724a38752cc17017505fa71b1f23ef607b5d006f1ef37",
+  "size_bytes": 38946067,
+  "release_notes": "Bản cập nhật v1.5.5: Tự động hóa hoàn toàn luồng Chrome, chống nhầm chương và tự nhận diện mở khóa"
 }
